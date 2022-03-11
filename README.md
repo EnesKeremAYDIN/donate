@@ -1,13 +1,13 @@
 # Crypto
-* **Bitcoin:** 
-* **Erc-20 (Ethereum):** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
-* **Bep-20 (Binance Smart Chain):** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
-* **Bep-2 (Binance Chain):** 
-* **Avalanche X-Chain:** 
-* **Avalanche P-Chain:** 
-* **Avalanche C-Chain:** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
-* **Solana:** 
-* **Polygon:** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
-* **Fantom:** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
-* **Heco:** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
-* **Moonbeam:** 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
+* **Bitcoin:** *Very soon*
+* **Erc-20 (Ethereum):** *Very soon*
+* **Bep-20 (Binance Smart Chain):** *Very soon*
+* **Bep-2 (Binance Chain):** *Very soon*
+* **Avalanche X-Chain:** *Very soon*
+* **Avalanche P-Chain:** *Very soon*
+* **Avalanche C-Chain:** *Very soon*
+* **Solana:** *Very soon*
+* **Polygon:** *Very soon*
+* **Fantom:** *Very soon*
+* **Heco:** *Very soon*
+* **Moonbeam:** *Very soon*
