@@ -1,10 +1,13 @@
 # Crypto
 * Bitcoin: 
-* Erc-20 (Ethereum): 
-* Bep-20 (Binance Smart Chain): 
+* Erc-20 (Ethereum): 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
+* Bep-20 (Binance Smart Chain): 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
 * Bep-2 (Binance Chain): 
 * Avalanche X-Chain: 
 * Avalanche P-Chain: 
-* Avalanche C-Chain: 
+* Avalanche C-Chain: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
 * Solana: 
-* 
+* Polygon: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
+* Fantom: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
+* Heco: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
+* Moonbeam: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
