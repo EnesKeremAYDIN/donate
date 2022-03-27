@@ -1,8 +1,10 @@
-[![Steam](https://img.shields.io/badge/donate-steam-blue?logo=Steam&style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=434566573&token=g789u6Uv)
 [![Discord](https://discord.com/api/guilds/817779288296128512/widget.png)](https://discord.gg/fJGtmKbuQB)
 
 *If you want to donate with another coin/token please contact me on Discord, thanks in advance.
 https://discordapp.com/users/829291742595252264
+
+# Steam Item
+[![Steam](https://img.shields.io/badge/donate-steam-blue?logo=Steam&style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=434566573&token=g789u6Uv)
 
 # Crypto
 * **Bitcoin (BTC)**:
