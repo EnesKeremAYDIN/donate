@@ -66,3 +66,6 @@ https://discordapp.com/users/829291742595252264
 
 * **Polkadot (DOT)**:
   * **DOT**: *12C4dc7VACq9kXNP1pTunundXxDoznB3MhhnLXEMmM7DvLsh*
+
+* **Monero (XMR**:
+  * **DOT**: *82cVTrD5kbzaEQncxDi69P6TWKg9Ehn6rPyCiEnv8Fs8AYvHke6UVZcSHWwPWGFZKKQDEXD1FFUiCDFX4w2vArVtMkY2btS*
