@@ -26,8 +26,8 @@ If you like my projects, you can support me.
 
 # E-wallet
 
-**-WebMoney:**
-*soon* (WMZ - $)
+**-WebMoney:**  
+*soon* (WMZ - $)  
 *soon* (WME - €)
 
 **-Payeer:**
