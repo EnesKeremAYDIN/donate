@@ -1,5 +1,15 @@
-# donate
 If you like my projects, you can support me.
+
+# Regular donation systems.
+
+**-Patreon:**
+*soon*
+
+**-BuyMeACoffe:**
+*soon*
+
+**-Ko-Fi:**
+*soon*
 
 # Cryptocurrency
 
