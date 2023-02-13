@@ -2,14 +2,7 @@
 
 # Regular donation systems.
 
-**-Patreon:**  
-*soon*
-
-**-BuyMeACoffe:**  
-*soon*
-
-**-Ko-Fi:**  
-*soon*
+**[Patreon](https://www.patreon.com/eneskeremaydin)**
 
 # Cryptocurrency
 
@@ -38,15 +31,3 @@
 
 **-Monero (XMR):**  
 *82cVTrD5kbzaEQncxDi69P6TWKg9Ehn6rPyCiEnv8Fs8AYvHke6UVZcSHWwPWGFZKKQDEXD1FFUiCDFX4w2vArVtMkY2btS* **(XMR)**
-
-# E-wallet
-
-**-WebMoney:**  
-*soon* (WMZ - $)  
-*soon* (WME - €)
-
-**-Payeer:**  
-*soon*
-
-**-YooMoney (Yandex Money):**  
-*soon*
