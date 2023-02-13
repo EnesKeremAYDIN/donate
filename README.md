@@ -13,6 +13,11 @@ If you like my projects, you can support me.
 
 # Cryptocurrency
 
+**-USD (USDT):**
+*0xe4b24765af9d5de4e5172198b83043d29070d892* **(ERC20)**
+*TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz* **(TRC20)**
+*0x0a1241a3756d764758cacc74c5dbe2ca068119d5* **(BEP20/BSC)**
+
 **-Bitcoin (BTC):**
 *3Q61cNjLgER2K9sZY1LvXjag1pWHiPX7c7* **(BTC)**
 
@@ -20,7 +25,7 @@ If you like my projects, you can support me.
 *0xe4b24765af9d5de4e5172198b83043d29070d892* **(ERC20)**
 
 **-Binance Coin (BNB):**
-*0x0a1241a3756d764758cacc74c5dbe2ca068119d5* **(BEP20)**
+*0x0a1241a3756d764758cacc74c5dbe2ca068119d5* **(BEP20/BSC)**
 
 **-Solana (SOL):**
 *DPo4jVVXWLxLedtdt2oXVKPS49U7ewUY7fSM8zmm8hqK* **(SOL)**
