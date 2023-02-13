@@ -2,38 +2,38 @@
 
 # Regular donation systems.
 
-**-Patreon:**
+**-Patreon:**  
 *soon*
 
-**-BuyMeACoffe:**
+**-BuyMeACoffe:**  
 *soon*
 
-**-Ko-Fi:**
+**-Ko-Fi:**  
 *soon*
 
 # Cryptocurrency
 
-**-USD (USDT):**
+**-USD (USDT):**  
 *0xe4b24765af9d5de4e5172198b83043d29070d892* **(ERC20)**  
 *TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz* **(TRC20)**  
 *0x0a1241a3756d764758cacc74c5dbe2ca068119d5* **(BEP20/BSC)**
 
-**-Bitcoin (BTC):**
+**-Bitcoin (BTC):**  
 *3Q61cNjLgER2K9sZY1LvXjag1pWHiPX7c7* **(BTC)**
 
-**-Ethereum (ETH):**
+**-Ethereum (ETH):**  
 *0xe4b24765af9d5de4e5172198b83043d29070d892* **(ERC20)**
 
-**-Binance Coin (BNB):**
+**-Binance Coin (BNB):**  
 *0x0a1241a3756d764758cacc74c5dbe2ca068119d5* **(BEP20/BSC)**
 
-**-Solana (SOL):**
+**-Solana (SOL):**  
 *DPo4jVVXWLxLedtdt2oXVKPS49U7ewUY7fSM8zmm8hqK* **(SOL)**
 
-**-Matic (POLYGON):**
+**-Matic (POLYGON):**  
 *0x25f804f8084897caa6d6ef13dd2efe9c3e537540* **(POLYGON)**
 
-**-Tron (TRX):**
+**-Tron (TRX):**  
 *TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz* **(TRC20)**
 
 **-Monero (XMR):**
@@ -45,8 +45,8 @@
 *soon* (WMZ - $)  
 *soon* (WME - €)
 
-**-Payeer:**
+**-Payeer:**  
 *soon*
 
-**-YooMoney (Yandex Money):**
+**-YooMoney (Yandex Money):**  
 *soon*
