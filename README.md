@@ -36,7 +36,7 @@
 **-Tron (TRX):**  
 *TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz* **(TRC20)**
 
-**-Monero (XMR):**
+**-Monero (XMR):**  
 *82cVTrD5kbzaEQncxDi69P6TWKg9Ehn6rPyCiEnv8Fs8AYvHke6UVZcSHWwPWGFZKKQDEXD1FFUiCDFX4w2vArVtMkY2btS* **(XMR)**
 
 # E-wallet
