@@ -14,8 +14,8 @@
 # Cryptocurrency
 
 **-USD (USDT):**
-*0xe4b24765af9d5de4e5172198b83043d29070d892* **(ERC20)**
-*TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz* **(TRC20)**
+*0xe4b24765af9d5de4e5172198b83043d29070d892* **(ERC20)**  
+*TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz* **(TRC20)**  
 *0x0a1241a3756d764758cacc74c5dbe2ca068119d5* **(BEP20/BSC)**
 
 **-Bitcoin (BTC):**
