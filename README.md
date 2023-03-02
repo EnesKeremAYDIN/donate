@@ -18,3 +18,10 @@
 | Matic (POLYGON) | POLYGON | 0x25f804f8084897caa6d6ef13dd2efe9c3e537540 |
 | Tron (TRX) | TRC20 | TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz |
 | Monero (XMR) | XMR | 82cVTrD5kbzaEQncxDi69P6TWKg9Ehn6rPyCiEnv8Fs8AYvHke6UVZcSHWwPWGFZKKQDEXD1FFUiCDFX4w2vArVtMkY2btS |
+
+# Exchange Reference Links
+[Mexc](https://m.mexc.com/auth/signup?inviteCode=1EGYe)
+[Gate](https://www.gate.io/signup/4116456)
+[ByBit](https://www.bybit.com/en-US/invite?ref=D9OGQK)
+[KuCoin](https://www.kucoin.com/r/rf/27a3Nht)
+[Huobi](https://www.huobi.com/tr-tr/v/register/double-invite/?inviter_id=11343840&invite_code=i7fw5223)
