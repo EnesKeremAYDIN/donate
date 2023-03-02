@@ -2,7 +2,7 @@
 
 # Regular donation systems.
 
-**[Patreon](https://www.patreon.com/eneskeremaydin)**
+-**[Patreon](https://www.patreon.com/eneskeremaydin)**
 
 # Cryptocurrency
 
@@ -20,8 +20,8 @@
 | Monero (XMR) | XMR | 82cVTrD5kbzaEQncxDi69P6TWKg9Ehn6rPyCiEnv8Fs8AYvHke6UVZcSHWwPWGFZKKQDEXD1FFUiCDFX4w2vArVtMkY2btS |
 
 # Exchange Reference Links
-[Mexc](https://m.mexc.com/auth/signup?inviteCode=1EGYe)  
-[Gate](https://www.gate.io/signup/4116456)  
-[ByBit](https://www.bybit.com/en-US/invite?ref=D9OGQK)  
-[KuCoin](https://www.kucoin.com/r/rf/27a3Nht)  
-[Huobi](https://www.huobi.com/tr-tr/v/register/double-invite/?inviter_id=11343840&invite_code=i7fw5223)
+-[Mexc](https://m.mexc.com/auth/signup?inviteCode=1EGYe)  
+-[Gate](https://www.gate.io/signup/4116456)  
+-[ByBit](https://www.bybit.com/en-US/invite?ref=D9OGQK)  
+-[KuCoin](https://www.kucoin.com/r/rf/27a3Nht)  
+-[Huobi](https://www.huobi.com/tr-tr/v/register/double-invite/?inviter_id=11343840&invite_code=i7fw5223)
