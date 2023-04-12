@@ -1,4 +1,4 @@
-💜If you like my projects, you can support me.
+💜If you like my projects, you can support me.   
 *It is better to make donations in Crypto for ease of withdrawal.
 
 # Cryptocurrency
