@@ -15,10 +15,10 @@
 | Tron (TRX) | TRC20 | TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz |
 | Monero (XMR) | XMR | 82cVTrD5kbzaEQncxDi69P6TWKg9Ehn6rPyCiEnv8Fs8AYvHke6UVZcSHWwPWGFZKKQDEXD1FFUiCDFX4w2vArVtMkY2btS |
 
-# Regular donation systems.
+# Regular donation systems
 -**[Patreon](https://www.patreon.com/eneskeremaydin)**
 
-# Exchange Reference Links
+# Reference Links
 -[Mexc](https://m.mexc.com/auth/signup?inviteCode=1EGYe)  
 -[Gate](https://www.gate.io/signup/4116456)  
 -[ByBit](https://www.bybit.com/en-US/invite?ref=D9OGQK)  
