@@ -1,7 +1,7 @@
 #  💜If you like my projects, you can support me.
 
-# Cryptocurrency
-| Coin | Network | Adress | Other |
+# Cryptocurrency Donate
+| Coin/Symbol | Network | Adress | Other Details |
 |------|---------|--------|--------|
 | Bitcoin (BTC) | BTC | 3Q61cNjLgER2K9sZY1LvXjag1pWHiPX7c7 | --- |
 | Ethereum (ETH) | ERC20 | 0xe4b24765af9d5de4e5172198b83043d29070d892 | --- |
