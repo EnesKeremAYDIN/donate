@@ -23,7 +23,7 @@
 | USDCoin (USDC) | TRC20 | TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz | --- |
 | USDCoin (USDC) | BEP20 (BSC) | 0x0a1241a3756d764758cacc74c5dbe2ca068119d5 | --- |
 
-# Continuous Donate (Credit Card)
+# Monthly Donate (Credit Card)
 -[Patreon](https://patreon.com/eneskeremaydin)
 
 # Reference Links
