@@ -27,8 +27,11 @@
 -[Patreon](https://patreon.com/eneskeremaydin)
 
 # Reference Links
+-[Binance](https://www.binance.info/tr/activity/referral-entry/CPA?ref=CPA_00TTMS1HY3)
+-[Binance TR](https://www.trbinance.com/account/signup?ref=DZ2A393W)
 -[Mexc](https://m.mexc.com/auth/signup?inviteCode=1EGYe)  
 -[Gate](https://www.gate.io/signup/4116456)  
 -[ByBit](https://www.bybit.com/en-US/invite?ref=D9OGQK)  
 -[KuCoin](https://www.kucoin.com/r/rf/27a3Nht)  
--[Huobi](https://www.huobi.com/tr-tr/v/register/double-invite/?inviter_id=11343840&invite_code=i7fw5223)
+-[HTX (Huobi)](https://www.huobi.com/tr-tr/v/register/double-invite/?inviter_id=11343840&invite_code=i7fw5223)
+-[OKX](https://okx.com/join/93694164)
