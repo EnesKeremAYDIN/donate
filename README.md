@@ -28,6 +28,7 @@
 
 # Reference Links
 -[Binance](https://www.binance.info/tr/activity/referral-entry/CPA?ref=CPA_00TTMS1HY3)  
+
 -[Binance TR](https://www.trbinance.com/account/signup?ref=DZ2A393W)  
 -[Mexc](https://m.mexc.com/auth/signup?inviteCode=1EGYe)  
 -[Gate](https://www.gate.io/signup/4116456)  
