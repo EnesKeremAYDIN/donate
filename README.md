@@ -1,6 +1,8 @@
 #  💜If you like my projects, you can support me.
-
 *Crypto donations are preferred.
+
+# Monthly Donate (Bank Card)
+-[Patreon](https://patreon.com/eneskeremaydin)
 
 # Cryptocurrency Donate
 | Coin/Symbol | Network | Adress | Other Details |
@@ -22,9 +24,6 @@
 | USDCoin (USDC) | ERC20 | 0xe4b24765af9d5de4e5172198b83043d29070d892 | --- |
 | USDCoin (USDC) | TRC20 | TXezYiSubmAPCa5se2v1tXNgYcdedEM6hz | --- |
 | USDCoin (USDC) | BEP20 (BSC) | 0x0a1241a3756d764758cacc74c5dbe2ca068119d5 | --- |
-
-# Monthly Donate (Credit Card)
--[Patreon](https://patreon.com/eneskeremaydin)
 
 # Reference Links
 -[Binance](https://www.binance.info/tr/activity/referral-entry/CPA?ref=CPA_00TTMS1HY3)  
