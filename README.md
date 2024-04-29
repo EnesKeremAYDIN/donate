@@ -5,6 +5,8 @@
 -[Patreon](https://patreon.com/eneskeremaydin)
 
 # Cryptocurrency Donate
+
+All EVM's: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
 | Coin/Symbol | Network | Adress | Other Details |
 |------|---------|--------|--------|
 | Bitcoin (BTC) | BTC | 3Q61cNjLgER2K9sZY1LvXjag1pWHiPX7c7 | --- |
