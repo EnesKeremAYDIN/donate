@@ -1,5 +1,4 @@
 #  💜If you like my projects, you can support me.
-*Crypto donations are preferred.
 
 # Cryptocurrency
 
