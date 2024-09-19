@@ -1,9 +1,6 @@
 #  💜If you like my projects, you can support me.
 *Crypto donations are preferred.
 
-# Monthly Donate (Bank Card)
--[Patreon](https://patreon.com/eneskeremaydin)
-
 # Cryptocurrency Donate
 
 All EVM's: 0x392DE358b4463CAF7c1df09B3c0267a32B8D6C5b
